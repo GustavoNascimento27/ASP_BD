@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\appquinto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\appquinto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|f:\\2a-ds-pi\\jo\u00E3of_pedroa\\asp_bd\\appquinto\\appquinto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FF427-0498-46AF-8E3E-9DC7C92E1AF4}|AppQuinto\\AppQuinto.csproj|solutionrelative:appquinto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:03:46.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:03:44.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Repository\\ClienteRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "AppQuinto\\Repository\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:22:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalhesUsuario.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T12:31:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T11:55:00.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "AppQuinto\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:38:12.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AtualizarUsuario.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T12:23:18.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:40:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AppQuinto\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:14:17.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppQuinto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:28:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:29:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Controllers\\ClienteController.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppQuinto\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:22:17.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T11:21:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Program.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Program.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Program.cs",
+              "RelativeToolTip": "AppQuinto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:45.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeToolTip": "AppQuinto\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:16:05.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppQuinto\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppQuinto\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T13:18:34.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppQuinto\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppQuinto\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:28:53.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppQuinto.csproj",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\AppQuinto.csproj",
+              "RelativeDocumentMoniker": "AppQuinto\\AppQuinto.csproj",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\AppQuinto.csproj",
+              "RelativeToolTip": "AppQuinto\\AppQuinto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T13:11:03.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\appsettings.json",
+              "RelativeDocumentMoniker": "AppQuinto\\appsettings.json",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\appsettings.json",
+              "RelativeToolTip": "AppQuinto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T12:27:30.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppQuinto\\Models\\Usuario.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Jo\u00E3oF_PedroA\\ASP_BD\\AppQuinto\\AppQuinto\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppQuinto\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:31:54.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
