@@ -16,6 +16,10 @@ namespace AppQuinto.Controllers
         {
             return View(_clienteRepository.ObterTodosClientes());
         }
+        public IActionResult Index1()
+        {
+            return View(_clienteRepository.ObterTodosClientes());
+        }
         [HttpGet]
         public IActionResult CadastrarCliente()
         {
@@ -36,7 +40,7 @@ namespace AppQuinto.Controllers
             return View(_clienteRepository.ObterCliente(id));
         }
         [HttpPost]
-        public IActionResult AtualizarUsuario(Cliente cliente)
+        public IActionResult AtualizarCliente(Cliente cliente)
         {
             _clienteRepository.Atualizar(cliente);
 
@@ -48,7 +52,7 @@ namespace AppQuinto.Controllers
             return View(_clienteRepository.ObterCliente(id));
         }
         [HttpPost]
-        public IActionResult DetalhesUsuario(Cliente cliente)
+        public IActionResult DetalhesCliente(Cliente cliente)
         {
             _clienteRepository.Atualizar(cliente);
 

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AppQuinto.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+<h1>Lista de Clientes</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.idCli)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nomeCli)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataNasc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Cliente cliente in Model)
+        {
+            <tr>
+                <td>
+                    @cliente.idCli
+                </td>
+                <td>
+                    @cliente.nomeCli
+                </td>
+                <td>
+                    @cliente.DataNasc.ToString("dd/MM/yyyy")
+                </td>
+                <td>
+                    <button type="button" class="btn btn-warning  botaoatualiza">
+
+                        @Html.ActionLink("Edit", "AtualizarCliente", new { id = cliente.idCli  }) |
+
+                    </button>
+                    <button type="button" class="btn btn-warning botaodetalhes">
+
+                        @Html.ActionLink("Details", "DetalhesCliente", new { id = cliente.idCli }) |
+                    </button>
+                    <button type="button" class="btn btn-warning botaoexcluir">
+                        @Html.ActionLink("Delete", "ExcluirCliente", new { id = cliente.idCli },  
+                        new { onclick = "return confirm('Deseja realmente desativar?');"})
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <a class="btn btn-primary" asp-action="CadastrarCliente" asp-controller="Cliente">Criar </a>
+</p>

@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/2A-DS-PI/JoãoF_PedroA/ASP_BD/AppQuinto/AppQuinto/Views/Cliente/AtualizarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxBdHVhbGl6YXJDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/2A-DS-PI/JoãoF_PedroA/ASP_BD/AppQuinto/AppQuinto/Views/Cliente/CadastrarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYWRhc3RyYXJDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/2A-DS-PI/JoãoF_PedroA/ASP_BD/AppQuinto/AppQuinto/Views/Cliente/DetalhesCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhbGhlc0NsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/2A-DS-PI/JoãoF_PedroA/ASP_BD/AppQuinto/AppQuinto/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/2A-DS-PI/JoãoF_PedroA/ASP_BD/AppQuinto/AppQuinto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

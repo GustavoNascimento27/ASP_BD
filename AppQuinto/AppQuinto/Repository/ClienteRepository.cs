@@ -6,7 +6,7 @@ using System.Data;
 
 namespace AppQuinto.Repository
 {
-    public class ClienteRepository
+    public class ClienteRepository : IClienteRepository
     {
         private readonly string _conexaoMySQL;
 
@@ -32,7 +32,7 @@ namespace AppQuinto.Repository
             }
         }
 
-        public void Cadastrar(Cliente cliente))
+        public void Cadastrar(Cliente cliente)
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
@@ -63,7 +63,7 @@ namespace AppQuinto.Repository
 
         public IEnumerable<Cliente> ObterTodosClientes()
         {
-            List<Cliente> UsuarioList = new List<Cliente>();
+            List<Cliente> ClienteList = new List<Cliente>();
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
@@ -89,7 +89,7 @@ namespace AppQuinto.Repository
             }
         }
 
-        public Usuario ObterCliente(int id)
+        public Cliente ObterCliente(int id)
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
@@ -101,12 +101,12 @@ namespace AppQuinto.Repository
                 MySqlDataAdapter da = new MySqlDataAdapter(cmd);
                 MySqlDataReader dr;
 
-                Cliente  cliente = new Cliente();
+                Cliente cliente = new Cliente();
                 dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
                 while (dr.Read())
                 {
-                    cliente.idUsu = Convert.ToInt32(dr["IdCli"]);
-                    cliente.nomeUsu = (string)(dr["nomeCli"]);
+                    cliente.idCli = Convert.ToInt32(dr["IdCli"]);
+                    cliente.nomeCli = (string)(dr["nomeCli"]);
                     cliente.DataNasc = Convert.ToDateTime(dr["DataNasc"]);
                 }
                 return cliente;

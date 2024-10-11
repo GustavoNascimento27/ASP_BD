@@ -9,6 +9,8 @@ builder.Services.AddControllersWithViews();
 //Adicionando a interface como serviço
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

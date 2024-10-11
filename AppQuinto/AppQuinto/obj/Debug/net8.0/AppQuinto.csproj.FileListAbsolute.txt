@@ -246,3 +246,6 @@ F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\obj\Debug\net8.0\AppQuinto.
 F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\obj\Debug\net8.0\AppQuinto.genruntimeconfig.cache
 F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\obj\Debug\net8.0\ref\AppQuinto.dll
 F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\obj\Debug\net8.0\AppQuinto.csproj.Up2Date
+F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\obj\Debug\net8.0\AppQuinto.sourcelink.json
+F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\2A-DS-PI\JoãoF_PedroA\ASP_BD\AppQuinto\AppQuinto\bin\Debug\net8.0\System.Formats.Asn1.dll

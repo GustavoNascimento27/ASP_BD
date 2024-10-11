@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppQuinto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26489c108050e6b02ac37f7d258ce8e46319c02")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppQuinto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppQuinto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

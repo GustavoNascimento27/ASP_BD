@@ -14,7 +14,7 @@ namespace AppQuinto.Models
 
         [Display(Name = "Nascimento")]
         [Required(ErrorMessage = "O campo nascimento é obrigatório")]
-        [DataType(DataType.DateTime)]
+        [DataType(DataType.Date)]
 
         public DateTime DataNasc { get; set; }
     }
